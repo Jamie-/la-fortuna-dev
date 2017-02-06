@@ -4,3 +4,4 @@ This is my working repo of gathered libraries, current projects, learning sample
 
 ### Directories ###
 * `blink`: LED blink.
+* `lib`: Libraries/Helpers for using various hardware on the La Fortuna
