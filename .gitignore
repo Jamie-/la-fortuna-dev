@@ -1,5 +1,2 @@
 # Ignore build files
 */_build/*
-
-# Ignore cloned projects
-FortunaTetris/*
